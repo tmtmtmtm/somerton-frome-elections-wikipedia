@@ -1,0 +1,47 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q5240825,David Warburton,Q9626,Conservative Party (UK),36230,Q30173038,General election 2019,1
+Q75838763,,Adam Boyden,Q9624,Liberal Democrats (UK),17017,Q30173038,General election 2019,2
+Q76363335,,Sean Dromgoole,Q9630,Labour Party (UK),8354,Q30173038,General election 2019,3
+Q75975752,,Andrea Dexter,Q9669,Green Party of England and Wales,3295,Q30173038,General election 2019,4
+,Q5240825,David Warburton,Q9626,Conservative Party (UK),36231,Q25052149,General election 2017,1
+,,Mark Blackburn,Q9624,Liberal Democrats (UK),13325,Q25052149,General election 2017,2
+Q76363335,,Sean Dromgoole,Q9630,Labour Party (UK),10998,Q25052149,General election 2017,3
+,,Theo Simon,Q9669,Green Party of England and Wales,2347,Q25052149,General election 2017,4
+,,Richard Hadwin,Q327591,Independent (politician),991,Q25052149,General election 2017,5
+,Q5240825,David Warburton,Q9626,Conservative Party (UK),31960,Q3586935,General election 2015,1
+,Q5238989,David Rendel,Q9624,Liberal Democrats (UK),11692,Q3586935,General election 2015,2
+,,Alan Dimmick,Q10647,United Kingdom Independence Party,6439,Q3586935,General election 2015,3
+,,Theo Simon,Q9669,Green Party of England and Wales,5434,Q3586935,General election 2015,4
+,,David Oakensen,Q9630,Labour Party (UK),4419,Q3586935,General election 2015,5
+,,Ian Angell,Q327591,Independent (politician),365,Q3586935,General election 2015,6
+,Q673199,David Heath,Q9624,Liberal Democrats (UK),28793,Q215622,General election 2010,1
+,Q4769784,Annunziata Rees-Mogg,Q9626,Conservative Party (UK),26976,Q215622,General election 2010,2
+,,David Oakensen,Q9630,Labour Party (UK),2675,Q215622,General election 2010,3
+,,Barry Harding,Q10647,United Kingdom Independence Party,1932,Q215622,General election 2010,4
+Q98545246,,Niall Warry,Q327591,Independent (politician),236,Q215622,General election 2010,5
+,Q673199,David Heath,Q9624,Liberal Democrats (UK),23759,Q428598,General election 2005,1
+,,Clive Allen,Q9626,Conservative Party (UK),22947,Q428598,General election 2005,2
+,,Joseph Pestell,Q9630,Labour Party (UK),5865,Q428598,General election 2005,3
+,,Bill Lukins,Q10647,United Kingdom Independence Party,1047,Q428598,General election 2005,4
+,,Carl Beaman,Q162246,Veritas (political party),484,Q428598,General election 2005,5
+,Q673199,David Heath,Q9624,Liberal Democrats (UK),22983,Q590740,General election 2001,1
+,Q1703253,Jonathan Marland,Q9626,Conservative Party (UK),22315,Q590740,General election 2001,2
+,,Andy Perkins,Q9630,Labour Party (UK),6113,Q590740,General election 2001,3
+,,Peter Bridgwood,Q10647,United Kingdom Independence Party,919,Q590740,General election 2001,4
+,,Jean Pollock,Q3360801,"Liberal Party (UK, 1989)",354,Q590740,General election 2001,5
+,Q673199,David Heath,Q9624,Liberal Democrats (UK),22684,Q918503,General election 1997,1
+,Q6769471,Mark Robinson,Q9626,Conservative Party (UK),22554,Q918503,General election 1997,2
+,,Robert Ashford,Q9630,Labour Party (UK),9385,Q918503,General election 1997,3
+,,Robert Rodwell,Q278315,Referendum Party,2449,Q918503,General election 1997,4
+,,R.P. Gadd,Q10647,United Kingdom Independence Party,331,Q918503,General election 1997,5
+,Q6769471,Mark Robinson,Q9626,Conservative Party (UK),28052,Q543609,General election 1992,1
+,Q673199,David Heath,Q9624,Liberal Democrats (UK),23711,Q543609,General election 1992,2
+,,Robert Ashford,Q9630,Labour Party (UK),6154,Q543609,General election 1992,3
+,,Ms. LA Graham,Q9669,Green Party of England and Wales,742,Q543609,General election 1992,4
+,,Ms. J Pollock,Q3360801,"Liberal Party (UK, 1989)",388,Q543609,General election 1992,5
+,Q7342224,Robert Boscawen,Q9626,Conservative Party (UK),29351,Q918472,General election 1987,1
+,,R.G. Morgan,Q622441,Liberal Party (UK),19813,Q918472,General election 1987,2
+,,I.S. Kelly,Q9630,Labour Party (UK),5461,Q918472,General election 1987,3
+,Q7342224,Robert Boscawen,Q9626,Conservative Party (UK),26988,Q918466,General election 1983,1
+,,N Hinton,Q40052,Social Democratic Party (UK),17761,Q918466,General election 1983,2
+,,JB Osborn,Q9630,Labour Party (UK),4867,Q918466,General election 1983,3
